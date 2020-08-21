@@ -1,0 +1,31 @@
+body{
+    background-image:url(https://image.freepik.com/free-photo/trail-dark-pine-forest_130291-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.table{
+    color: white;
+}
+.table-bordered th,
+.table-bordered td {
+  border: 2px solid white;
+  opacity: 0.97;
+  background-color: grey; 
+background: transparent;
+}
+.navbar-light .navbar-brand{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+h1{
+    color: white;
+}
+label{
+    color: white;
+}
+.card{
+    background-color: burlywood;
+}
